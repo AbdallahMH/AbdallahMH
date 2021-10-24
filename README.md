@@ -13,7 +13,7 @@
 - 🤔 I’m looking for help with an Internship or Scholarship
 - 💬 Ask me about ***Anything***!
 - 📫 How to reach me: <a href="https://t.me/DelightfulMiracle">Telegram</a>, <a href="mailto:abdallahhezam1@gmail.com">Email</a>, <a href="https://www.linkedin.com/in/abdullah-hezam/">LinkedIn</a>
-- ⚡ Fun fact: I traveled ~600km with my bicycle 🚴🏻‍♂️!
+- ⚡ Fun fact: I traveled ~600km on my bicycle 🚴🏻‍♂️!
 
 ---
 
