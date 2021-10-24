@@ -1,11 +1,11 @@
 # (ง\*^*)ง
 ### Welcome to my Profile 👋
-
 ![Profile Views](https://komarev.com/ghpvc/?username=AbdallahMH&color=blue)
+<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="340"/>
 
 
 
-- 🔭 I’m currently working on Kaggle's Competitions, I also work as a Private Teacher
+- 🔭 I’m currently working as a Private Teacher, and Kaggle's Competitions
 - 🌱 I’m currently learning Data science, Machine learning
 - 👯 I’m looking to collaborate on any project that relates to Machine learning!
 - 🤔 I’m looking for help with an Internship or Scholarship
