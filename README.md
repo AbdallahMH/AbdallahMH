@@ -7,9 +7,8 @@
 
 
 
-- 🔭 I’m currently working as a Private Teacher, and Kaggle's Competitions
-- 🌱 I’m currently learning Data science, Machine learning
-- 👯 I’m looking to collaborate on any project that relates to Machine learning!
+- 🔭 I’m currently working as a Junior Full Stack Developer at [Ejaro](https://github.com/ejaro)
+- 🌱 I’m currently learning Ruby on Rails
 - 🤔 I’m looking for help with an Internship or Scholarship
 - 💬 Ask me about ***Anything***!
 - 📫 How to reach me: <a href="https://t.me/DelightfulMiracle">Telegram</a>, <a href="mailto:abdallahhezam1@gmail.com">Email</a>, <a href="https://www.linkedin.com/in/abdullah-hezam/">LinkedIn</a>
