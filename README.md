@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working as a Junior Full Stack Developer at [Ejaro](https://github.com/ejaro)
 - 🌱 I’m currently learning Ruby on Rails
-- 🤔 I’m looking for help with an Internship or Scholarship
+- 🤔 I’m looking for help with Scholarships
 - 💬 Ask me about ***Anything***!
 - 📫 How to reach me: <a href="https://t.me/DelightfulMiracle">Telegram</a>, <a href="mailto:abdallahhezam1@gmail.com">Email</a>, <a href="https://www.linkedin.com/in/abdullah-hezam/">LinkedIn</a>
 - ⚡ Fun fact: I traveled ~600km on my bicycle 🚴🏻‍♂️!
@@ -20,7 +20,11 @@
 | Java | Python | Ruby | MATLAB | SQL | PHP | HTML/CSS | JavaScript |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 
-## Libraries & Tools that I work with 👇
+## Libraries & Tools & Frameworks that I work with 👇
+
+#### For Web Development 
+| Ruby on Rails | Bootstrap  | jQuery |
+| :---: | :---: | :---: |
 
 #### For Data handling, visualization and Image processing
 | Pandas | Numpy  | Matplotlib | Numpy |
@@ -31,8 +35,8 @@
 | :---: | :---: | :---: | :---: | :---: |
 
 #### IDEs that I work with
-| Pycharm | Spyder | Google Colab | Jupyter Notebook | VSCode | Kaggle
-| :---: | :---: | :---: | :---: | :---: | :---: |
+| VSCode | RubyMine | Pycharm | Spyder | Google Colab | Jupyter Notebook | Kaggle | Intellij IDEA 
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 
 
 ## Design Software 🎨
