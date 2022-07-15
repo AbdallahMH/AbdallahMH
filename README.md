@@ -17,8 +17,8 @@
 ---
 
 ## Programming Languages :man_technologist:
-| Java | Python | Ruby | MATLAB | SQL | PHP | HTML | C | C++ | JavaScript | R |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Java | Python | Ruby | MATLAB | SQL | PHP | HTML/CSS | JavaScript |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 
 ## Libraries & Tools that I work with 👇
 
