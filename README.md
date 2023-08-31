@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning Ruby on Rails
 - 🤔 I’m looking for help with Scholarships
 - 💬 Ask me about ***Anything***!
-- 📫 How to reach me: <a href="https://t.me/DelightfulMiracle">Telegram</a>, <a href="mailto:abdallahhezam1@gmail.com">Email</a>, <a href="https://www.linkedin.com/in/abdullah-hezam/">LinkedIn</a>
+- 📫 How to reach me: <a href="https://t.me/abdallahhezam">Telegram</a>, <a href="mailto:abdallahhezam1@gmail.com">Email</a>, <a href="https://www.linkedin.com/in/abdullah-hezam/">LinkedIn</a>
 - ⚡ Fun fact: I traveled ~600km on my bicycle 🚴🏻‍♂️!
 
 ---
