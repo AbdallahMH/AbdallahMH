@@ -7,7 +7,7 @@
 
 
 
-- 🔭 I’m currently working as a Junior Full Stack Developer at [Ejaro](https://github.com/ejaro)
+- 🔭 I’m currently working as a Full Stack Developer at [Ejaro](https://github.com/ejaro)
 - 🌱 I’m currently learning Ruby on Rails
 - 🤔 I’m looking for help with Scholarships
 - 💬 Ask me about ***Anything***!
