@@ -6,7 +6,7 @@
 Systems > features • Interfaces first • Reliability by default (idempotency/retries/timeouts) • Pragmatic TDD • Measure→iterate • Write it down
 
 ### Public labs
-I pin tiny teaching repos as they go live (no proprietary code).
+I pin tiny teaching repos as they go live.
 
 ### Notes & guides
 https://abdullah-hezam.super.site
