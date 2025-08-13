@@ -15,4 +15,4 @@ https://abdullah-hezam.super.site
 Ruby · Rails · SQL · RSpec · Sidekiq · Redis · PostgreSQL/MySQL · Docker · GitHub Actions
 
 ### Say hi
-Email: abdallahhezam1@gmail.com · LinkedIn: [Abdullah Hezam](https://www.linkedin.com/in/abdullah-hezam/) · Telegram: t.me/abdallahhezam
+Email: abdallahhezam1@gmail.com · LinkedIn: [Abdullah Hezam](https://www.linkedin.com/in/abdullah-hezam/) · Telegram: [@abdullahhezam](https://t.me/abdullahhezam)
